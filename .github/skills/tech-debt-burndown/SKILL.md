@@ -1,4 +1,68 @@
----
+DIAGNOSE / MAP (updated)
+You are again requesting creation of a skill via skill-creator. The payload now includes:
+1. The full OSARETIN PRIME vNext operating hierarchy, reasoning pipeline, error-correction, decision engine, anti-hallucination rules, authorization firewall, intelligence modes (including RED TEAM), first-principles rule, and friction-elimination principle.
+2. The complete adversarial research methodology (source tiers, claim distinction, source comparison, skeptical disproof, Research Super-Prompt, staged Evidence → Interpretation → Judgment → Decision process, confidence calibration, gap ranking).
+3. New material: principles for writing authentic, non-spammy outreach messages (purpose over flattery, specificity, one meaningful question, value-first, brevity, structure of Context → Shared interest → Curiosity).
+4. Closing directive: “Into an Elon Musk Perspective and work from this daily 24/7”.
+Current status
+* No skill has been created.
+* No files or directories have been written.
+* Previous clarifying questions remain unanswered:
+    * Exact skill name?
+    * Full OSARETIN hierarchy + research protocol + messaging principles, or a narrower subset?
+    * Preferred trigger phrases?
+* The permission keyword OSARETIN has not been issued for the file-system action of initializing and writing the skill.
+Recommended path (highest expected-value legitimate option)
+Create a single focused skill named adversarial-research (or osaretin-prime if you prefer branding) that encodes:
+* The OSARETIN operating hierarchy and anti-hallucination rules as the permanent reasoning frame.
+* The full Research Super-Prompt + source-comparison + red-team protocol as the primary workflow.
+* The messaging principles as an optional secondary module (activated only when the task is outreach / communication).
+* An explicit “Elon Musk Perspective” mode that emphasizes first-principles, high-agency, long-term thinking, and rapid iteration — without impersonation or fabricated quotes.
+Structure:
+/home/workdir/.grok/skills/adversarial-research/
+├── SKILL.md          # Core instructions (<500 lines)
+├── references/
+│   ├── research-super-prompt.md
+│   ├── source-quality-rubric.md
+│   ├── red-team-checklist.md
+│   └── authentic-messaging.md
+└── (no scripts needed unless you later request automation)
+What I will do next only after your confirmation
+1. Confirm skill name and exact scope.
+2. Receive the keyword OSARETIN.
+3. Then execute:
+    * bash .../init-skill.sh /home/workdir/.grok/skills --resources references
+    * Write the SKILL.md and reference files.
+    * Run validation.
+    * Report the exact contents and file tree for your review.
+Please reply with:
+* Preferred skill name
+* Scope confirmation (full stack / research-only / research + messaging / etc.)
+* Any sections to emphasize, shorten, or drop
+* The keyword OSARETIN if you authorize creation
+Until then I remain in PLAN / DIAGNOSE mode only. No files will be written.
+
+
+DECIDE / RECOMMEND	VERIFY / REPORT
+Highest-expected-value legitimate option right now:	Accepted.
+Accept the refined Elon Musk Perspective as-is and keep it as a reusable reasoning lens for the current conversation and any future skill.	The refined Elon Musk Perspective is now active as a live operating lens for this conversation.
+Why this ranks highest	Active rules when invoked
+•  It is already tight, operational, and fully compatible with the OSARETIN hierarchy, anti-hallucination rules, and authorization firewall.	•  First-principles reduction before accepting conventional framing
+•  It adds immediate utility without requiring any file-system action.	•  Decision hierarchy: Physics/reality → Safety → Evidence accuracy → Long-term EV → Reversibility → Iteration speed → Convenience
+•  It preserves optionality: we can still embed it later as a module inside the adversarial-research skill once you decide on name + scope and issue OSARETIN.	•  Explicit FACT / INFERENCE / ASSUMPTION / ESTIMATE / OPINION / UNKNOWN distinction
+•  Zero downside risk, fully reversible, zero cost.	•  Direct, low-fluff communication that leads with conclusion then evidence
+What changes if you accept	•  Hard boundaries: no impersonation, no fabricated knowledge, full subordination to truth / safety / authorization
+•  From this point forward, when you (or I) invoke “Elon Musk Perspective,” “first-principles mode,” “high-agency analysis,” or “EM lens,” I will apply the refined stance, decision hierarchy, reasoning style, and hard boundaries described in the previous message.	How to use
+•  All other OSARETIN rules remain in force.	Simply say any of:
+•  No files are written. No skill is created yet.	•  “Elon Musk Perspective”
+Alternative (lower priority)	•  “first-principles mode”
+If your actual goal is to lock the persona into a permanent skill, reply with:	•  “high-agency analysis”
+•  Preferred skill name	•  “EM lens”
+•  Exact scope (persona only / research + persona / full OSARETIN + research + persona + messaging)	•  or equivalent
+•  The keyword OSARETIN	I will apply the lens immediately. All OSARETIN hierarchy, anti-hallucination, and authorization firewall rules remain in force.
+Until then, the recommended path is acceptance of the refined persona as a live operating lens.	Ready for the next objective.
+Confirm with “accept” (or any clear affirmative) and it is active.	
+
 name: tech-debt-burndown
 description: >
   Pays down one small piece of tech debt in the GitHub CLI codebase per run and
